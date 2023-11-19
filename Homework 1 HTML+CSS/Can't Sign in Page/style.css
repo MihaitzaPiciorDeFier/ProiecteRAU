@@ -1,0 +1,175 @@
+.cant-sign-in {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.cant-sign-in .CAN-t-SIGN-IN-page-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 1024px;
+}
+
+.cant-sign-in .CAN-t-SIGN-IN-page {
+  width: 1444px;
+  height: 1080px;
+}
+
+.cant-sign-in .overlap {
+  position: relative;
+  width: 1440px;
+  height: 1024px;
+  background-image: url(./img/background.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.cant-sign-in .box-email {
+  top: 522px;
+  left: 955px;
+  position: absolute;
+  width: 311px;
+  height: 351px;
+}
+
+.cant-sign-in .overlap-group {
+  position: relative;
+  width: 307px;
+  height: 351px;
+  background-color: #d9d9d9;
+  border-radius: 30px;
+}
+
+.cant-sign-in .icon {
+  position: absolute;
+  width: 150px;
+  height: 116px;
+  top: 44px;
+  left: 89px;
+}
+
+.cant-sign-in .text-wrapper {
+  position: absolute;
+  width: 244px;
+  top: 202px;
+  left: 58px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #979797;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.cant-sign-in .div {
+  position: absolute;
+  width: 226px;
+  top: 246px;
+  left: 40px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #b8b8b8b8;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.cant-sign-in .box-password {
+  top: 522px;
+  left: 529px;
+  position: absolute;
+  width: 311px;
+  height: 351px;
+}
+
+.cant-sign-in .img {
+  position: absolute;
+  width: 153px;
+  height: 145px;
+  top: 30px;
+  left: 77px;
+}
+
+.cant-sign-in .text-wrapper-2 {
+  width: 251px;
+  top: 208px;
+  left: 56px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #979797;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.cant-sign-in .p {
+  position: absolute;
+  width: 226px;
+  top: 253px;
+  left: 46px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #b8b8b8b8;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.cant-sign-in .overlap-2 {
+  position: absolute;
+  width: 311px;
+  height: 351px;
+  top: 522px;
+  left: 110px;
+}
+
+.cant-sign-in .box-username {
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 311px;
+  height: 351px;
+}
+
+.cant-sign-in .text-wrapper-3 {
+  width: 239px;
+  top: 202px;
+  left: 47px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #979797;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.cant-sign-in .text-wrapper-4 {
+  position: absolute;
+  top: 339px;
+  left: 442px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.cant-sign-in .text-wrapper-5 {
+  position: absolute;
+  top: 209px;
+  left: 334px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+}
